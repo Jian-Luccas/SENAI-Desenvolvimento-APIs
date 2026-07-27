@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+BFSKPqjT3E=",
+  "dgSpecHash": "mMgvykRsU+M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jianl\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\jianl\\Downloads\\UC14 - Desenvolvimento de APIs\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jianl\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\jianl\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
